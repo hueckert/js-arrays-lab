@@ -263,5 +263,6 @@ numArrays.forEach(function(first){
 });
 
 console.log('Exercise 15 result:\n', total);
+//done with this lab
 
 
